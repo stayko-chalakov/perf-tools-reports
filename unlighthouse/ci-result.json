@@ -1,16 +1,16 @@
 [
   {
     "path": "/",
-    "score": 0.81,
-    "performance": 0.67,
-    "accessibility": 0.81,
+    "score": 0.84,
+    "performance": 0.71,
+    "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.84
   },
   {
     "path": "/da",
-    "score": 0.85,
-    "performance": 0.73,
+    "score": 0.84,
+    "performance": 0.71,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.84
@@ -25,46 +25,54 @@
   },
   {
     "path": "/da/faq",
-    "score": 0.81,
-    "performance": 0.73,
+    "score": 0.79,
+    "performance": 0.66,
     "accessibility": 0.91,
     "best-practices": 0.83,
     "seo": 0.76
   },
   {
     "path": "/da/how-it-works",
-    "score": 0.84,
-    "performance": 0.73,
+    "score": 0.83,
+    "performance": 0.7,
     "accessibility": 0.87,
     "best-practices": 0.92,
     "seo": 0.82
   },
   {
     "path": "/da/thanks-feedback",
-    "score": 0.83,
-    "performance": 0.73,
+    "score": 0.82,
+    "performance": 0.69,
     "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/da/traveler-information",
-    "score": 0.81,
-    "performance": 0.74,
+    "score": 0.83,
+    "performance": 0.73,
     "accessibility": 0.9,
-    "best-practices": 0.83,
+    "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/de-us",
-    "score": 0.83,
-    "performance": 0.67,
+    "score": 0.84,
+    "performance": 0.71,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.84
   },
   {
-    "path": "/de-us/about-go-city",
+    "path": "/de-us/affiliate-program",
+    "score": 0.8,
+    "performance": 0.64,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/de-us/affiliates",
     "score": 0.83,
     "performance": 0.73,
     "accessibility": 0.9,
@@ -72,41 +80,33 @@
     "seo": 0.75
   },
   {
-    "path": "/de-us/black-friday-2022",
+    "path": "/de-us/attraction-partners",
     "score": 0.85,
-    "performance": 0.74,
-    "accessibility": 0.91,
-    "best-practices": 0.92,
-    "seo": 0.83
-  },
-  {
-    "path": "/de-us/black-friday-2022-copy",
-    "score": 0.81,
-    "performance": 0.74,
-    "accessibility": 0.91,
-    "best-practices": 0.83,
-    "seo": 0.75
-  },
-  {
-    "path": "/de-us/how-it-works",
-    "score": 0.84,
     "performance": 0.73,
-    "accessibility": 0.87,
+    "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.82
   },
   {
-    "path": "/de-us/magic-link",
-    "score": 0.82,
-    "performance": 0.72,
+    "path": "/de-us/cookie-usage-policy",
+    "score": 0.85,
+    "performance": 0.73,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/de-us/go-city-hub-magic-link",
+    "score": 0.83,
+    "performance": 0.73,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/de-us/meet-the-team",
-    "score": 0.82,
-    "performance": 0.7,
+    "score": 0.83,
+    "performance": 0.73,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
@@ -120,129 +120,121 @@
     "seo": 0.75
   },
   {
-    "path": "/de-us/traveler-information",
-    "score": 0.79,
-    "performance": 0.57,
-    "accessibility": 0.9,
+    "path": "/de-us/stressfreies-reisen",
+    "score": 0.84,
+    "performance": 0.68,
+    "accessibility": 0.91,
     "best-practices": 0.92,
-    "seo": 0.75
+    "seo": 0.83
   },
   {
     "path": "/en-us",
-    "score": 0.82,
+    "score": 0.84,
     "performance": 0.69,
-    "accessibility": 0.81,
+    "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.84
   },
   {
-    "path": "/en-us/attractions-and activity-providers",
-    "score": 0.81,
-    "performance": 0.67,
-    "accessibility": 0.91,
-    "best-practices": 0.92,
-    "seo": 0.75
-  },
-  {
-    "path": "/en-us/blog/celebrate-75-years-with-the-golden-gate-bridge",
-    "score": 0.8,
+    "path": "/en-us/about-us-new",
+    "score": 0.78,
     "performance": 0.71,
-    "accessibility": 0.82,
-    "best-practices": 0.92,
-    "seo": 0.75
-  },
-  {
-    "path": "/en-us/blog/go-city-games-quizzes",
-    "score": 0.84,
-    "performance": 0.72,
-    "accessibility": 0.89,
-    "best-practices": 0.92,
-    "seo": 0.82
-  },
-  {
-    "path": "/en-us/blog/group-travel-ideas-and-discounts",
-    "score": 0.81,
-    "performance": 0.69,
-    "accessibility": 0.88,
+    "accessibility": 0.9,
     "best-practices": 0.83,
+    "seo": 0.68
+  },
+  {
+    "path": "/en-us/blog/5-reasons-to-go-on-a-family-vacation-now",
+    "score": 0.8,
+    "performance": 0.7,
+    "accessibility": 0.82,
+    "best-practices": 0.92,
+    "seo": 0.76
+  },
+  {
+    "path": "/en-us/blog/go-city-and-mandai-wildlife-group",
+    "score": 0.84,
+    "performance": 0.73,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
     "seo": 0.82
   },
   {
-    "path": "/en-us/blog/how-to-plan-for-a-family-road-trip",
-    "score": 0.83,
-    "performance": 0.68,
+    "path": "/en-us/blog/how-to-plan-a-summer-vacation",
+    "score": 0.84,
+    "performance": 0.72,
     "accessibility": 0.89,
     "best-practices": 0.92,
     "seo": 0.82
   },
   {
-    "path": "/en-us/blog/how-well-do-you-know-your-us-cities-2",
-    "score": 0.79,
-    "performance": 0.66,
+    "path": "/en-us/blog/how-well-do-you-know-your-european-cities",
+    "score": 0.82,
+    "performance": 0.73,
+    "accessibility": 0.88,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/en-us/blog/ride-the-wave-to-l-a-s-international-surf-festival",
+    "score": 0.81,
+    "performance": 0.73,
     "accessibility": 0.82,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
-    "path": "/en-us/blog/march-madness-travel-tips",
+    "path": "/en-us/blog/rome-colosseum",
     "score": 0.84,
-    "performance": 0.72,
-    "accessibility": 0.89,
-    "best-practices": 0.92,
-    "seo": 0.82
-  },
-  {
-    "path": "/en-us/blog/rome-kids-guide",
-    "score": 0.84,
-    "performance": 0.72,
+    "performance": 0.71,
     "accessibility": 0.89,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
-    "path": "/en-us/blog/the-cloisters-museum-in-spring",
-    "score": 0.82,
+    "path": "/en-us/blog/travel-mistakes-to-avoid",
+    "score": 0.84,
     "performance": 0.73,
     "accessibility": 0.89,
-    "best-practices": 0.83,
+    "best-practices": 0.92,
     "seo": 0.82
   },
   {
-    "path": "/en-us/competition-giveaway",
-    "score": 0.81,
-    "performance": 0.68,
-    "accessibility": 0.9,
-    "best-practices": 0.92,
-    "seo": 0.75
-  },
-  {
-    "path": "/en-us/content-marketing-executive-germany",
+    "path": "/en-us/blog/where-to-spend-new-years-eve-in-the-united-states-2019-20",
     "score": 0.83,
-    "performance": 0.73,
-    "accessibility": 0.91,
+    "performance": 0.68,
+    "accessibility": 0.89,
     "best-practices": 0.92,
-    "seo": 0.75
+    "seo": 0.82
   },
   {
-    "path": "/en-us/lead-software-security-engineer-senior-software-security-engineer",
-    "score": 0.8,
-    "performance": 0.71,
-    "accessibility": 0.91,
-    "best-practices": 0.83,
-    "seo": 0.75
-  },
-  {
-    "path": "/en-us/regional-director-stockholm-gothenburg",
-    "score": 0.82,
-    "performance": 0.7,
-    "accessibility": 0.91,
-    "best-practices": 0.92,
-    "seo": 0.75
-  },
-  {
-    "path": "/en-us/sell-our-passes",
+    "path": "/en-us/junior-digital-marketing-analyst",
     "score": 0.83,
     "performance": 0.72,
+    "accessibility": 0.91,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/en-us/platform-engineer",
+    "score": 0.82,
+    "performance": 0.69,
+    "accessibility": 0.91,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/en-us/social-giveaway-terms-and-conditions-entry",
+    "score": 0.84,
+    "performance": 0.69,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 0.75
+  },
+  {
+    "path": "/en-us/software-engineer-data",
+    "score": 0.82,
+    "performance": 0.7,
     "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.75
@@ -250,61 +242,53 @@
   {
     "path": "/en-us/terms-and-conditions-sign-and-save-competition",
     "score": 0.83,
-    "performance": 0.72,
+    "performance": 0.74,
     "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
-    "path": "/en-us/thanks-feedback",
-    "score": 0.82,
-    "performance": 0.68,
+    "path": "/en-us/useful-traveler-information",
+    "score": 0.83,
+    "performance": 0.73,
     "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.75
+  },
+  {
+    "path": "/en-us/work-with-us",
+    "score": 0.8,
+    "performance": 0.7,
+    "accessibility": 0.91,
+    "best-practices": 0.92,
+    "seo": 0.68
   },
   {
     "path": "/es-us",
     "score": 0.85,
-    "performance": 0.73,
+    "performance": 0.72,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.84
   },
   {
-    "path": "/es-us/90-day-cancellation",
-    "score": 0.83,
-    "performance": 0.73,
-    "accessibility": 0.91,
-    "best-practices": 0.92,
-    "seo": 0.75
-  },
-  {
     "path": "/es-us/affiliate-program",
     "score": 0.83,
-    "performance": 0.73,
+    "performance": 0.72,
     "accessibility": 0.9,
     "best-practices": 1,
     "seo": 0.68
   },
   {
     "path": "/es-us/black-friday-2022-copy",
-    "score": 0.78,
-    "performance": 0.71,
+    "score": 0.81,
+    "performance": 0.74,
     "accessibility": 0.91,
-    "best-practices": 0.75,
+    "best-practices": 0.83,
     "seo": 0.75
   },
   {
     "path": "/es-us/blog/5-mejores-ciudades-en-estados-unidos-para-veinteaneros",
-    "score": 0.83,
-    "performance": 0.67,
-    "accessibility": 0.89,
-    "best-practices": 0.92,
-    "seo": 0.83
-  },
-  {
-    "path": "/es-us/blog/guia-de-teatro-opera-y-ballet-roma",
     "score": 0.83,
     "performance": 0.68,
     "accessibility": 0.89,
@@ -312,41 +296,57 @@
     "seo": 0.83
   },
   {
-    "path": "/es-us/blog/roma-en-tres-dias",
-    "score": 0.82,
-    "performance": 0.64,
+    "path": "/es-us/blog/guia-de-teatro-opera-y-ballet-roma",
+    "score": 0.84,
+    "performance": 0.73,
     "accessibility": 0.89,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
-    "path": "/es-us/faq",
-    "score": 0.8,
-    "performance": 0.7,
-    "accessibility": 0.91,
-    "best-practices": 0.83,
-    "seo": 0.77
+    "path": "/es-us/blog/roma-en-tres-dias",
+    "score": 0.84,
+    "performance": 0.73,
+    "accessibility": 0.89,
+    "best-practices": 0.92,
+    "seo": 0.83
   },
   {
     "path": "/es-us/go-city-hub-magic-link",
-    "score": 0.8,
-    "performance": 0.72,
+    "score": 0.82,
+    "performance": 0.69,
     "accessibility": 0.9,
-    "best-practices": 0.83,
+    "best-practices": 0.92,
     "seo": 0.75
   },
   {
-    "path": "/es-us/magic-link",
+    "path": "/es-us/home",
     "score": 0.83,
-    "performance": 0.73,
+    "performance": 0.67,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/es-us/magic-link",
+    "score": 0.82,
+    "performance": 0.72,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/es-us/risk-free-guarantee",
+    "score": 0.81,
+    "performance": 0.68,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/es-us/thanks-feedback",
-    "score": 0.82,
-    "performance": 0.71,
+    "score": 0.83,
+    "performance": 0.73,
     "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.75
@@ -361,64 +361,56 @@
   },
   {
     "path": "/fr-us",
-    "score": 0.81,
+    "score": 0.84,
     "performance": 0.68,
     "accessibility": 0.9,
-    "best-practices": 0.83,
+    "best-practices": 0.92,
     "seo": 0.84
   },
   {
-    "path": "/fr-us/90-day-cancellation",
+    "path": "/fr-us/about-go-city",
     "score": 0.83,
     "performance": 0.73,
-    "accessibility": 0.91,
+    "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/fr-us/affiliate-program",
-    "score": 0.83,
-    "performance": 0.73,
+    "score": 0.84,
+    "performance": 0.72,
     "accessibility": 0.9,
-    "best-practices": 0.92,
+    "best-practices": 1,
     "seo": 0.75
   },
   {
     "path": "/fr-us/black-friday-2022",
     "score": 0.83,
-    "performance": 0.74,
+    "performance": 0.72,
     "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.76
   },
   {
-    "path": "/fr-us/black-friday-2022-copy",
-    "score": 0.79,
-    "performance": 0.73,
-    "accessibility": 0.91,
-    "best-practices": 0.75,
-    "seo": 0.75
-  },
-  {
     "path": "/fr-us/blog/5-villes-americaines-a-visiter-avant-30-ans",
-    "score": 0.82,
-    "performance": 0.66,
+    "score": 0.84,
+    "performance": 0.73,
     "accessibility": 0.89,
     "best-practices": 0.92,
     "seo": 0.82
   },
   {
     "path": "/fr-us/blog/guide-des-theatres-operas-et-ballets-a-rome",
-    "score": 0.82,
-    "performance": 0.65,
+    "score": 0.84,
+    "performance": 0.73,
     "accessibility": 0.89,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/fr-us/blog/rome-pour-les-adults",
-    "score": 0.82,
-    "performance": 0.64,
+    "score": 0.83,
+    "performance": 0.69,
     "accessibility": 0.89,
     "best-practices": 0.92,
     "seo": 0.83
@@ -432,27 +424,35 @@
     "seo": 0.76
   },
   {
-    "path": "/fr-us/how-it-works",
-    "score": 0.84,
-    "performance": 0.74,
-    "accessibility": 0.87,
-    "best-practices": 0.92,
-    "seo": 0.82
-  },
-  {
-    "path": "/fr-us/magic-link",
-    "score": 0.82,
-    "performance": 0.71,
+    "path": "/fr-us/go-city-hub-magic-link",
+    "score": 0.83,
+    "performance": 0.73,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
-    "path": "/fr-us/traveler-information",
-    "score": 0.8,
-    "performance": 0.73,
+    "path": "/fr-us/magic-link",
+    "score": 0.83,
+    "performance": 0.74,
     "accessibility": 0.9,
-    "best-practices": 0.83,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/fr-us/thanks-feedback",
+    "score": 0.82,
+    "performance": 0.7,
+    "accessibility": 0.91,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/fr-us/traveler-information",
+    "score": 0.82,
+    "performance": 0.71,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
     "seo": 0.75
   },
   {
@@ -464,41 +464,57 @@
     "seo": 0.84
   },
   {
-    "path": "/it-us/black-friday-2022",
-    "score": 0.81,
+    "path": "/it-us/about-go-city",
+    "score": 0.83,
     "performance": 0.73,
-    "accessibility": 0.91,
-    "best-practices": 0.83,
-    "seo": 0.76
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.75
   },
   {
-    "path": "/it-us/faq",
+    "path": "/it-us/affiliates",
+    "score": 0.83,
+    "performance": 0.73,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/it-us/black-friday-2022-copy",
     "score": 0.81,
     "performance": 0.73,
     "accessibility": 0.91,
     "best-practices": 0.83,
-    "seo": 0.76
+    "seo": 0.75
+  },
+  {
+    "path": "/it-us/go-city-hub-magic-link",
+    "score": 0.83,
+    "performance": 0.73,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.75
   },
   {
     "path": "/it-us/group-travel-form",
-    "score": 0.76,
-    "performance": 0.69,
+    "score": 0.77,
+    "performance": 0.73,
     "accessibility": 0.84,
     "best-practices": 0.83,
     "seo": 0.69
   },
   {
-    "path": "/it-us/how-it-works",
-    "score": 0.83,
-    "performance": 0.72,
-    "accessibility": 0.87,
+    "path": "/it-us/home",
+    "score": 0.84,
+    "performance": 0.7,
+    "accessibility": 0.9,
     "best-practices": 0.92,
-    "seo": 0.82
+    "seo": 0.84
   },
   {
     "path": "/it-us/meet-the-team",
     "score": 0.83,
-    "performance": 0.74,
+    "performance": 0.73,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
@@ -506,50 +522,34 @@
   {
     "path": "/it-us/sell-our-passes",
     "score": 0.83,
-    "performance": 0.72,
-    "accessibility": 0.91,
-    "best-practices": 0.92,
-    "seo": 0.75
-  },
-  {
-    "path": "/it-us/thanks-feedback",
-    "score": 0.8,
-    "performance": 0.72,
-    "accessibility": 0.91,
-    "best-practices": 0.83,
-    "seo": 0.75
-  },
-  {
-    "path": "/it-us/traveler-information",
-    "score": 0.83,
     "performance": 0.73,
-    "accessibility": 0.9,
+    "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/ja",
-    "score": 0.85,
-    "performance": 0.73,
+    "score": 0.82,
+    "performance": 0.72,
     "accessibility": 0.9,
-    "best-practices": 0.92,
+    "best-practices": 0.83,
     "seo": 0.84
   },
   {
     "path": "/ja/90-day-cancellation",
-    "score": 0.8,
-    "performance": 0.71,
+    "score": 0.83,
+    "performance": 0.73,
     "accessibility": 0.91,
-    "best-practices": 0.83,
+    "best-practices": 0.92,
     "seo": 0.75
   },
   {
-    "path": "/ja/black-friday-2022",
-    "score": 0.81,
-    "performance": 0.73,
-    "accessibility": 0.91,
-    "best-practices": 0.83,
-    "seo": 0.76
+    "path": "/ja/about-go-city",
+    "score": 0.84,
+    "performance": 0.7,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.82
   },
   {
     "path": "/ja/careers",
@@ -560,52 +560,60 @@
     "seo": 0.75
   },
   {
+    "path": "/ja/go-city-hub-magic-link",
+    "score": 0.83,
+    "performance": 0.73,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
     "path": "/ja/group-travel-form",
     "score": 0.77,
-    "performance": 0.72,
+    "performance": 0.73,
     "accessibility": 0.84,
     "best-practices": 0.83,
     "seo": 0.69
   },
   {
-    "path": "/ja/home",
+    "path": "/ja/how-it-works",
     "score": 0.84,
-    "performance": 0.7,
-    "accessibility": 0.9,
+    "performance": 0.73,
+    "accessibility": 0.87,
     "best-practices": 0.92,
-    "seo": 0.84
+    "seo": 0.82
   },
   {
     "path": "/ja/magic-link",
     "score": 0.83,
-    "performance": 0.74,
+    "performance": 0.73,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
-    "path": "/ja/meet-the-team",
-    "score": 0.82,
-    "performance": 0.72,
-    "accessibility": 0.9,
+    "path": "/ja/work-with-us",
+    "score": 0.85,
+    "performance": 0.73,
+    "accessibility": 0.91,
     "best-practices": 0.92,
-    "seo": 0.75
-  },
-  {
-    "path": "/ja/traveler-information",
-    "score": 0.83,
-    "performance": 0.74,
-    "accessibility": 0.9,
-    "best-practices": 0.92,
-    "seo": 0.75
+    "seo": 0.82
   },
   {
     "path": "/ko",
     "score": 0.85,
-    "performance": 0.73,
+    "performance": 0.72,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.84
+  },
+  {
+    "path": "/ko/90-day-cancellation",
+    "score": 0.83,
+    "performance": 0.73,
+    "accessibility": 0.91,
+    "best-practices": 0.92,
+    "seo": 0.75
   },
   {
     "path": "/ko/about-go-city",
@@ -625,24 +633,32 @@
   },
   {
     "path": "/ko/blog/black-friday-travel-deals",
-    "score": 0.83,
-    "performance": 0.67,
+    "score": 0.84,
+    "performance": 0.73,
     "accessibility": 0.89,
     "best-practices": 0.92,
     "seo": 0.82
   },
   {
     "path": "/ko/careers",
-    "score": 0.82,
-    "performance": 0.71,
+    "score": 0.83,
+    "performance": 0.72,
     "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
-    "path": "/ko/group-travel-form",
+    "path": "/ko/faq",
     "score": 0.79,
     "performance": 0.73,
+    "accessibility": 0.91,
+    "best-practices": 0.83,
+    "seo": 0.69
+  },
+  {
+    "path": "/ko/group-travel-form",
+    "score": 0.79,
+    "performance": 0.74,
     "accessibility": 0.84,
     "best-practices": 0.83,
     "seo": 0.76
@@ -650,34 +666,18 @@
   {
     "path": "/ko/how-it-works",
     "score": 0.83,
-    "performance": 0.7,
+    "performance": 0.72,
     "accessibility": 0.87,
     "best-practices": 0.92,
     "seo": 0.82
   },
   {
     "path": "/ko/meet-the-team",
-    "score": 0.83,
-    "performance": 0.73,
+    "score": 0.82,
+    "performance": 0.72,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
-  },
-  {
-    "path": "/ko/traveler-information",
-    "score": 0.83,
-    "performance": 0.74,
-    "accessibility": 0.9,
-    "best-practices": 0.92,
-    "seo": 0.75
-  },
-  {
-    "path": "/ko/work-with-us",
-    "score": 0.85,
-    "performance": 0.74,
-    "accessibility": 0.91,
-    "best-practices": 0.92,
-    "seo": 0.82
   },
   {
     "path": "/pt-br",
@@ -697,8 +697,8 @@
   },
   {
     "path": "/pt-br/faq",
-    "score": 0.81,
-    "performance": 0.73,
+    "score": 0.8,
+    "performance": 0.69,
     "accessibility": 0.9,
     "best-practices": 0.83,
     "seo": 0.77
@@ -706,15 +706,15 @@
   {
     "path": "/pt-br/how-it-works",
     "score": 0.84,
-    "performance": 0.74,
+    "performance": 0.73,
     "accessibility": 0.87,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/pt-br/traveler-information",
-    "score": 0.83,
-    "performance": 0.74,
+    "score": 0.82,
+    "performance": 0.71,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.76
@@ -729,8 +729,8 @@
   },
   {
     "path": "/sv/90-day-cancellation",
-    "score": 0.83,
-    "performance": 0.74,
+    "score": 0.82,
+    "performance": 0.69,
     "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.75
@@ -744,41 +744,41 @@
     "seo": 0.75
   },
   {
-    "path": "/sv/affiliate-program",
+    "path": "/sv/affiliates",
     "score": 0.83,
     "performance": 0.73,
-    "accessibility": 0.9,
-    "best-practices": 1,
-    "seo": 0.68
-  },
-  {
-    "path": "/sv/affiliates",
-    "score": 0.82,
-    "performance": 0.7,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/sv/attractions-and-activity-providers",
-    "score": 0.81,
-    "performance": 0.74,
+    "score": 0.8,
+    "performance": 0.7,
     "accessibility": 0.9,
     "best-practices": 0.83,
     "seo": 0.75
   },
   {
+    "path": "/sv/faq",
+    "score": 0.8,
+    "performance": 0.7,
+    "accessibility": 0.91,
+    "best-practices": 0.83,
+    "seo": 0.76
+  },
+  {
     "path": "/sv/group-travel-form",
-    "score": 0.78,
-    "performance": 0.74,
+    "score": 0.77,
+    "performance": 0.71,
     "accessibility": 0.84,
     "best-practices": 0.83,
     "seo": 0.69
   },
   {
-    "path": "/sv/thanks-feedback",
-    "score": 0.82,
-    "performance": 0.7,
+    "path": "/sv/sell-our-passes",
+    "score": 0.83,
+    "performance": 0.73,
     "accessibility": 0.91,
     "best-practices": 0.92,
     "seo": 0.75
@@ -794,80 +794,80 @@
   {
     "path": "/zh-hans",
     "score": 0.85,
-    "performance": 0.73,
+    "performance": 0.72,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.84
   },
   {
-    "path": "/zh-hans/affiliates",
-    "score": 0.83,
-    "performance": 0.74,
-    "accessibility": 0.9,
-    "best-practices": 0.92,
-    "seo": 0.75
-  },
-  {
     "path": "/zh-hans/blog/5-u-s-cities-everyone-in-their-20s-should-visit",
-    "score": 0.82,
-    "performance": 0.64,
+    "score": 0.84,
+    "performance": 0.73,
     "accessibility": 0.89,
     "best-practices": 0.92,
     "seo": 0.82
   },
   {
-    "path": "/zh-hans/careers-listings",
-    "score": 0.81,
-    "performance": 0.74,
+    "path": "/zh-hans/careers",
+    "score": 0.85,
+    "performance": 0.73,
     "accessibility": 0.91,
-    "best-practices": 0.83,
-    "seo": 0.76
+    "best-practices": 0.92,
+    "seo": 0.82
   },
   {
-    "path": "/zh-hans/careers-new",
-    "score": 0.8,
-    "performance": 0.7,
-    "accessibility": 0.82,
+    "path": "/zh-hans/faq",
+    "score": 0.82,
+    "performance": 0.72,
+    "accessibility": 0.91,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/zh-hans/go-city-hub-magic-link",
+    "score": 0.83,
+    "performance": 0.73,
+    "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
+    "path": "/zh-hans/group-travel-form",
+    "score": 0.77,
+    "performance": 0.73,
+    "accessibility": 0.84,
+    "best-practices": 0.83,
+    "seo": 0.69
+  },
+  {
     "path": "/zh-hans/home",
     "score": 0.84,
-    "performance": 0.71,
+    "performance": 0.69,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.84
   },
   {
-    "path": "/zh-hans/hong-kong-coming-soon",
-    "score": 0.8,
-    "performance": 0.69,
-    "accessibility": 0.85,
-    "best-practices": 0.83,
-    "seo": 0.83
-  },
-  {
-    "path": "/zh-hans/meet-the-team",
-    "score": 0.85,
-    "performance": 0.74,
-    "accessibility": 0.9,
-    "best-practices": 0.92,
-    "seo": 0.82
-  },
-  {
-    "path": "/zh-hans/terms",
+    "path": "/zh-hans/privacy",
     "score": 0.84,
-    "performance": 0.69,
+    "performance": 0.7,
     "accessibility": 0.91,
     "best-practices": 1,
     "seo": 0.75
   },
   {
-    "path": "/zh-hans/work-with-us",
-    "score": 0.85,
-    "performance": 0.73,
-    "accessibility": 0.91,
+    "path": "/zh-hans/risk-free-guarantee",
+    "score": 0.8,
+    "performance": 0.66,
+    "accessibility": 0.9,
+    "best-practices": 0.83,
+    "seo": 0.82
+  },
+  {
+    "path": "/zh-hans/traveler-information",
+    "score": 0.84,
+    "performance": 0.7,
+    "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.82
   }
